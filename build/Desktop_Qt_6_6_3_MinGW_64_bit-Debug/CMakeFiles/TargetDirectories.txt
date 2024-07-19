@@ -1,5 +1,0 @@
-C:/Users/winge/Documents/task_manager/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/task_manager.dir
-C:/Users/winge/Documents/task_manager/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/winge/Documents/task_manager/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/winge/Documents/task_manager/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/task_manager_autogen_timestamp_deps.dir
-C:/Users/winge/Documents/task_manager/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/task_manager_autogen.dir
